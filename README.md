@@ -47,3 +47,5 @@ python3 run_seq_cls.py --task nsmc --config_file kr-electra.json
 ```
 
 파인튜닝이 완료되면 `run.ipynb` 코드를 실행시켜 평가할 수 있습니다.
+
+파인튜닝은 RTX-3090 기준 1 epoch 당 약 5시간 소요됩니다.
