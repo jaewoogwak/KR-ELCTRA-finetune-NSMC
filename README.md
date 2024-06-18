@@ -3,7 +3,8 @@
 네이버 영화리뷰 데이터셋(NSMC)으로 KR-ELECTRA 모델을 파인튜닝합니다.
 
 아래 저장소의 코드를 참고하였습니다.
-https://github.com/snunlp/KR-ELECTRA/tree/master
+
+-   https://github.com/snunlp/KR-ELECTRA/tree/master
 
 아래 패키지가 필요합니다.
 
